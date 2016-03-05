@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/pi/Graspio
+cd /home/pi/setup
 sudo python _maincode.py
